@@ -1,6 +1,6 @@
 # React-based-Projects
 
-*TRVL  
+###### _TRVL_  
 
 Built this website in React using React Hooks and React Router. Created a travel design and aded a video background as well as an image background.
 
