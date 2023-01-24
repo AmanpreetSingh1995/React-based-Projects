@@ -4,19 +4,19 @@
 
 Github Repo [Click Here](https://github.com/AmanpreetSingh1995/trvl-mockup-website)
 
-Live Site [Click Here](https://trvl-mockup-website.herokuapp.com/)
+Live Site [Click Here](https://trvl-mockup.netlify.app/)
 
 ***2. Lavish ***
 
 Github Repo [Click Here](https://github.com/AmanpreetSingh1995/lavish-mockup-website)
 
-Live Site [Click Here](https://lavish-mockup-website.herokuapp.com/)
+Live Site [Click Here](https://lavish-mockup.netlify.app/)
 
 ***3. CRWN Clothing ***
 
 Github Repo [Click Here](https://github.com/AmanpreetSingh1995/crwn-clothing)
 
-Live Site [Click Here](https://crwn--live.herokuapp.com/)
+Live Site [Click Here](https://crwn-clothing-v1.netlify.app/)
 
 ***4. FaceBook Clone ***
 
@@ -28,7 +28,7 @@ Live Site [Click Here](https://fb-clone-df800.web.app/)
 
 Github Repo [Click Here](https://github.com/AmanpreetSingh1995/react-restaurant-website)
 
-Live Site [Click Here](https://react-restaurant-website.herokuapp.com/)
+Live Site [Click Here](https://react-pizza-restaurant.netlify.app/)
 
 ***6. Social Dashboard with Dark/Light Toggle  ***
 
